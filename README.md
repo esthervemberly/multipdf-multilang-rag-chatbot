@@ -1,6 +1,8 @@
 # PDF RAG Chatbot
 
 Multi-PDF Multi-language Retrieval-Augmented Generation chatbot powered by **BGE-M3** embeddings, **pgvector** (Supabase), and **Ollama** for local LLM inference.
+<img width="1710" height="910" alt="Snipaste_2026-02-27_16-35-23" src="https://github.com/user-attachments/assets/a02d32ce-a061-4655-a40b-8a45f8366846" />
+<img width="1710" height="908" alt="Snipaste_2026-02-27_16-38-05" src="https://github.com/user-attachments/assets/06c4aa50-7c82-41a6-8435-291fba7602c3" />
 
 ## Tech Stack
 
