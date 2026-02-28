@@ -69,7 +69,6 @@ uvicorn app.main:app --reload --port 8000
 
 ```bash
 cd frontend
-cp .env.local.example .env.local
 npm install
 npm run dev
 ```
